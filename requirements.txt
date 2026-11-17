@@ -1,0 +1,12 @@
+PyQt6>=6.6.0
+opencv-python>=4.9.0
+Pillow>=10.2.0
+numpy>=1.26.0
+mss>=9.0.1
+pyphen>=0.14.0
+requests>=2.31.0
+sqlalchemy>=2.0.28
+keyboard>=0.13.5
+pydantic-settings>=2.2.0
+python-dotenv>=1.0.1
+transformers==4.44.2
